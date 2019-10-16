@@ -1,0 +1,13 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+
+/*order matters*/
+/*Link then Visited, then Hover, lastly Active in this order*/
+div:hover {
+    background-color: green;
+    cursor: pointer;
+}
