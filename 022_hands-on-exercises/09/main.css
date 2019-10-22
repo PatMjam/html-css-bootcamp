@@ -1,0 +1,4 @@
+/*all p tags that are immediate siblings following a div*/
+div + p {
+    color: red;
+}

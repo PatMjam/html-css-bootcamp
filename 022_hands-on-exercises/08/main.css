@@ -1,0 +1,4 @@
+/*div ~ p is for the sibling following a div*/
+div ~ p {
+    color: red;
+}

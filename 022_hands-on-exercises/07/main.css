@@ -1,0 +1,4 @@
+/*All p tags immediately beneath a div*/
+div > p {
+    color: red;
+}
