@@ -1,0 +1,8 @@
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 8rem;
+    font-weight: normal;
+    /*font-variant: small-caps;*/
+/*    there are many different values to play with*/
+    text-transform: uppercase;
+}
