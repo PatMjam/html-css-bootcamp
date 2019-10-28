@@ -1,0 +1,12 @@
+html {
+    font-size: 5rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: red;
+}

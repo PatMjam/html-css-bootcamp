@@ -1,0 +1,17 @@
+p {
+    font-family: 'Roboto',sans-serif;
+    font-size: 3rem;
+    color: blue;
+}
+
+#one {
+    font-weight: 400;
+}
+
+#two {
+    font-weight: 200;
+}
+
+#three {
+    font-weight: 100;
+}
