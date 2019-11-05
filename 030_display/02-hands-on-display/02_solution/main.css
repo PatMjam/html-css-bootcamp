@@ -1,0 +1,23 @@
+div {
+    width: 200px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 35%;
+    display: inline-block;
+}
+
+.drb1 {
+    background-color: #FF0000;
+}
+
+.drb2 {
+    background-color: #0000FF;
+}
+
+.drb3 {
+    background-color: #FFD700;
+}
+
+.drb4 {
+    background-color: #308014;
+}
